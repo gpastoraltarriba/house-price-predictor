@@ -1,0 +1,28 @@
+New-Item .gitignore
+```
+
+Luego ábrelo y pega esto:
+```
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+*.pkl
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Node
+node_modules/
+.next/
+frontend/.git/
+
+# Env
+.env
+.env.local
+
+# OS
+.DS_Store
+Thumbs.db
