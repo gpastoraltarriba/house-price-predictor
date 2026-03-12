@@ -1,0 +1,48 @@
+{
+  "features": [
+    "MedInc",
+    "HouseAge",
+    "AveRooms",
+    "AveBedrms",
+    "Population",
+    "AveOccup",
+    "Latitude",
+    "Longitude"
+  ],
+  "feature_mins": {
+    "MedInc": 0.4999,
+    "HouseAge": 1.0,
+    "AveRooms": 0.8461538461538461,
+    "AveBedrms": 0.3333333333333333,
+    "Population": 3.0,
+    "AveOccup": 0.6923076923076923,
+    "Latitude": 32.54,
+    "Longitude": -124.35
+  },
+  "feature_maxs": {
+    "MedInc": 15.0001,
+    "HouseAge": 52.0,
+    "AveRooms": 141.9090909090909,
+    "AveBedrms": 34.06666666666667,
+    "Population": 35682.0,
+    "AveOccup": 1243.3333333333333,
+    "Latitude": 41.95,
+    "Longitude": -114.31
+  },
+  "feature_means": {
+    "MedInc": 3.8706710029069766,
+    "HouseAge": 28.639486434108527,
+    "AveRooms": 5.428999742190376,
+    "AveBedrms": 1.096675149606208,
+    "Population": 1425.4767441860465,
+    "AveOccup": 3.0706551594363742,
+    "Latitude": 35.63186143410852,
+    "Longitude": -119.56970445736432
+  },
+  "price_min": 14999.000000000002,
+  "price_max": 500000.99999999994,
+  "price_mean": 206855.81690891474,
+  "model_r2": 0.8301370625233793,
+  "model_rmse": 47179.43602245965,
+  "model_mae": 30957.334569650102
+}
